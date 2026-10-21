@@ -1,6 +1,6 @@
 ## Hi, I'm Devamittran 👋
 
-Data scientist and MBA candidate at **IIT Kanpur**, and a **CFA Level I candidate**. I turn messy data into decisions across markets, supply chains and AI systems.
+Data scientist and MBA student at **IIT Kanpur** (2026 to 2028), and a **CFA Level I candidate**. I turn messy data into decisions across markets, supply chains and AI systems.
 
 🌐 **Portfolio:** [devamittran-m.github.io](https://devamittran-m.github.io)
 
