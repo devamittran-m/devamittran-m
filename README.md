@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Devamittran 👋
 
-<!--
-**devamittran-m/devamittran-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist and MBA candidate at **IIT Kanpur**, and a **CFA Level I candidate**. I turn messy data into decisions across markets, supply chains and AI systems.
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** [devamittran-m.github.io](https://devamittran-m.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+- **Quant research:** financial signal processing, time series and backtesting, and a literature survey on how foundation models are changing the field
+- **Analytics:** supply chain and business analytics, forecasting, SQL and dashboards
+- **AI engineering and policy:** LLM agents, RAG and evaluation, and research on responsible AI design
+
+### Background
+- Data Scientist at Turing on the **Google Gemini** agents project (2024 to 2026): built an MCP agent, a simulated training environment, and a verification framework for agent evaluation
+- Research intern at **Sony Semiconductor Solutions** and research associate on a **Deloitte** analytics collaboration
+- Coauthor of an **IEEE CONECCT 2024** paper on radar signal processing (SVD and Empirical Mode Decomposition)
+
+### Tools
+Python · SQL · C++ · PyTorch · scikit learn · pandas · LangChain · LangGraph · BigQuery · Google Cloud
+
+### Let's connect
+💼 Open to **freelance data science** projects and research collaborations.
+📫 [devamittranmohan@gmail.com](mailto:devamittranmohan@gmail.com) · [LinkedIn](https://lnkd.in/p/dVgib6i5) · [Portfolio](https://devamittran-m.github.io)
